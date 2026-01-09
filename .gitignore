@@ -1,14 +1,15 @@
 # видео файлы
-*.avi
-*.mp4
-*.mkv
-*.mov
-*.flv
-*.wmv
-*.mpg
-*.mpeg
-*.3gp
-*.webm
+# *.avi
+# *.mp4
+# *.mkv
+# *.mov
+# *.flv
+# *.wmv
+# *.mpg
+# *.mpeg
+# *.3gp
+# *.webm
+simple_track.avi
 
 # окружения Python
 venv
